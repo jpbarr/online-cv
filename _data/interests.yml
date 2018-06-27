@@ -1,12 +1,12 @@
 - interest:
-  item: Outdoors
+  item: Science & Technology
   link:
-- interest:
-  item: Ocean
+- interest: Outdoors
+  item: 
   link:
-- interest:
-  item: Surfing 
+- interest: Ocean (Surfing, Fishing)
+  item: 
   link: 
 - interest:
-  item: Fishing
+  item: Education
   link: 
