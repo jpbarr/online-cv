@@ -2,7 +2,7 @@
 title: Justin P. Barr's Resume
 url: 'https://jpbarr.github.io/online-resume/'
 baseurl: '/online-resume' #change it according to your repository name
-about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
+about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
